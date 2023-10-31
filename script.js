@@ -1,5 +1,7 @@
 // ATIVIDADE 6
 
+document.write(`ATIVIDADE 6 <br><br><br> <strong>Caso não carregue todos os exerícios, atualize a página!</strong><br><br><br>`)
+
 // 1. Crie uma variável para ler a idade de um motorista. Caso o motorista tenha idade maior ou igual a 18 anos imprime no console “Pode dirigir”, caso contrário imprima “Não pode dirigir”.
 
 const idade = Number(prompt(`1. Insira a sua idade: `))
